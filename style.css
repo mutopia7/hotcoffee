@@ -1,0 +1,47 @@
+
+
+
+/* Header navbar */
+
+.navbarr a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+#logo:hover{
+    cursor: default;
+}
+
+/* box 1 */
+.box{
+    border: 1px solid #E2E2E2;
+    box-shadow: 0px 5px 4px rgba(221, 221, 221, 0.25);
+    border-radius: 5px;
+}
+
+/* see more button */
+
+#seemore{
+    background-color: #6B46C1;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    
+
+}
+
+/* social media */
+
+.social{
+    text-decoration: none;
+    color: black;
+}
+
+/* article page */
+
+.content p{
+    color: #718096;
+    line-height: 1.1;
+}
